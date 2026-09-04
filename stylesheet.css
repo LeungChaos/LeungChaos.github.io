@@ -673,16 +673,3 @@ span.highlight {
     font-size: 12px;
   }
 }
-
-.profile-links .link-pending {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 8px 14px;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-  background: rgba(255, 255, 255, 0.55);
-  color: var(--muted);
-  font-weight: 700;
-  cursor: default;
-}
